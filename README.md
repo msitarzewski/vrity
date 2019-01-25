@@ -9,7 +9,7 @@ It moves all storage and rendering to the cloud to make AAA experiences availabl
 
 2. Which platforms will be supported?
 
-All VR headsets are supported. The delivery to the headset is a VR 180° SBS video. Anything that can render that stream is compatible.
+All VR headsets should be supported. The delivery to the headset is a VR 180° SBS video. Anything that can render that stream is compatible.
 
 3. What about optics? How will vrity handle the different specifications for each headset?
 
